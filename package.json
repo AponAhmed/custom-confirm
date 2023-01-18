@@ -1,6 +1,6 @@
 {
   "name": "@aponahmed/confirm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom Confirm window for Web",
   "main": "index.js",
   "scripts": {
