@@ -2,6 +2,9 @@
  Custom Confirm Box for Web, This is a small package to receive user's confirmation before execute any action.
  Builtin two buttons are shown, One is 'Yes' and other is 'No'.
  
+## Demo
+ You can see the demo on [codepen](https://codepen.io/apon22/pen/yLqzVrW)
+
 ## Installation 
     npm i @aponahmed/confirm
 
