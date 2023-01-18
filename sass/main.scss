@@ -1,3 +1,5 @@
+$primary-color:#1ca3b9;
+
 .confirm-modal {
     position: fixed;
     background: rgba(250, 250, 250, 0);
@@ -67,6 +69,6 @@
 
 
 .confirm-modal-footer div.confirm-modal-yes {
-    background: var(--primary-color);
+    background: $primary-color;
     color: #fff;
 }
